@@ -1,3 +1,10 @@
-<h1>Simple Spring MVC Application with CRUD operations</h1>
-In order to launch an application type <code>./mvnw spring-boot:run</code> in a
-console and then open <code>http://localhost:8080/</code> in your browser.
+# Spring MVC Application 
+Simple web application with CRUD operations
+
+## How To Use
+In order to launch an application type `./mvnw spring-boot:run` in a command line and then open `http://localhost:8080/` in your browser.
+
+## Built With
+* [Spring Framework](https://spring.io/) - The framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [Thymeleaf](https://www.thymeleaf.org/) - Template engine
